@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=lEflo_sc82g&list=PL6QREj8te1P56tahJwEbyDZNVAnCclTc4&index=2
+
+사용
+1.리액트
+2.tailwind.css
+3.shadcn
+4.appwrite
+5.sentry
+
+
+⭐ Appwrite: https://apwr.dev/JSM50
+🌟 Sentry - https://bit.ly/4abT6PG
+
+🎨 Healthcare App Figma Design - https://resource.jsmastery.pro/health...
+🤖 Special Discord Forum - https://resource.jsmastery.pro/health...
+
+🌟 Become a top 1% Next.js 15 developer: https://jsmastery.pro/next15
+🚀 Skyrocket your career: https://jsmastery.pro/dev-career-acce...
+
+📚 Materials/References:
+GitHub Repository (give it a star ⭐): https://github.com/adrianhajdin/healt...
+README (assets & code): https://github.com/adrianhajdin/healt...
